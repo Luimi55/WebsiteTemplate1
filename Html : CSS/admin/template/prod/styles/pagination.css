@@ -1,0 +1,5 @@
+.pager li.active > a, .pager li > a:hover {
+    background: #7d6646;
+    border-color: #7d6646;
+    color: #ffffff;
+}

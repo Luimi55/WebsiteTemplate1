@@ -1,0 +1,1035 @@
+/*main-responsive file*/
+
+@media (min-width: 980px) {
+  .row .product-image img {
+    height: 350px;
+  }
+}
+
+
+@media (max-width: 1000px) {
+
+
+
+.ins {
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+		height: 500px;
+
+}
+
+
+
+
+
+
+
+
+.welcome {
+	color: #4d5258;
+	font-family: 'gotham_lightregular';
+	font-size: 30px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+  .welcome2 {
+	color: #FFF;
+	font-family: 'gotham_thinitalic';
+	font-size: 20px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+  .welcometext {
+	color: #4d5258;
+	font-size: 13px;
+	text-align: center;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+
+  .bgtitle{
+	font-family: 'gotham_lightregular';
+	font-size: 15px;
+	color: #FFF;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-image: url(../img/gradient.png);
+
+}
+
+  .CAtitle{
+	width: 98%;
+	font-family: 'gotham_lightregular';
+	font-size: 11px;
+	color: #FFF;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-image: url(../img/gradient.png);
+	    line-height: 100%;
+
+
+}
+
+
+
+  .ornament {
+	background-image: url(../img/ornament.png);
+	height: 32px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+    .responsivelogo {
+			margin-top: 10px;
+
+		width: 190px;
+}
+
+
+      .responsivelogo img {
+		width: 100%;
+}
+
+
+
+
+.ego {
+	color: #827252;
+	font-size: 20px;
+	text-align: center;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5px;
+	margin-top: 35px;
+    font-family: 'iowanoldst_btbold_italic';
+	line-height: 150%;
+}
+
+
+.hidestick {
+	  display:none;
+
+}
+
+
+
+.btn_sctions-h {
+	text-align: center;
+	background-color: #FFF;
+	font-family: 'gotham_lightregular';
+	color: #333;
+	font-size: 8px;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 4px;
+	width: 90px;
+	height: 29px;
+	font-weight: bold;
+	float: left;
+	margin-right: 5px;
+	margin-top: 30px;
+}
+
+.btn_sctions-h:hover {
+	text-decoration: none;
+	color: #333;
+	background-color: #CCC;
+}
+
+
+  .general_content {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+/* IPHONE 5 */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+
+.socialmob{
+		margin-top: 18px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.image .texttitle4 {
+	text-align: center;
+	position:absolute;
+	top:11px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+
+
+.image .texttitlevia {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+  .subtext {
+	font-family: exoregular;
+	font-size: 13px;
+		width:90%;
+
+}
+
+
+.btn_sctions {
+	font-family: gothammedium;
+	color: #FFF;
+	font-size: 10px;
+	background: #FEA200;
+	text-decoration: none;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 190px;
+	height: 38px;
+}
+.centerbtasec{
+	width: 190px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.headcup2 img {
+	width:100%;
+	height: 200px;
+
+}
+
+
+
+
+
+.image .texttitle {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+}
+
+
+
+
+
+
+	.image .texttitle12 {
+	text-align: center;
+	position:absolute;
+	top:17px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+	.assist {
+	height: 255px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	background-color: #8F8F93;
+    }
+
+
+
+
+
+.white-popup {
+	position: relative;
+	max-width: 50px;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	background-color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+
+
+}
+
+
+
+/* IPHONE 6 */
+
+@media only screen
+and (min-device-width : 3360px)
+and (max-device-width : 667px) {
+
+	.mastergreen{
+	padding-bottom: 0px;
+	background-image: url(../img/jcorange.html);
+
+	}
+
+
+.socialmob{
+		margin-top: 18px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+  .princecopy {
+	font-family: exoregular;
+	font-size: 22px;
+	color: #FFF;
+
+
+    }
+
+.image .texttitle4 {
+	text-align: center;
+	position:absolute;
+	top:15px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+
+
+.image .texttitlevia {
+	text-align: center;
+	position:absolute;
+	top:15px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+  .subtext {
+	font-family: exoregular;
+	font-size: 13px;
+		width:90%;
+
+}
+
+
+.btn_sctions {
+	font-family: gothammedium;
+	color: #FFF;
+	font-size: 10px;
+	background: #FEA200;
+	text-decoration: none;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 190px;
+	height: 38px;
+}
+.centerbtasec{
+	width: 190px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.headcup2 img {
+	width:100%;
+	height: 200px;
+
+}
+
+
+
+
+
+.image .texttitle {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+}
+
+.hidestick {
+    
+  display:none;
+    
+}
+
+
+
+
+	.image .texttitle12 {
+	text-align: center;
+	position:absolute;
+	top:17px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+	.assist {
+	height: 255px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	background-color: #8F8F93;
+    }
+
+
+
+
+
+.white-popup {
+	position: relative;
+	max-width: 50px;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	background-color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+
+.welcome2 {
+	color: #FFF;
+	font-family: 'gotham_thinitalic';
+	font-size: 15px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+}
+
+/* IPHONE 6 PLUS */
+
+
+@media only screen
+and (min-device-width : 414px)
+and (max-device-width : 736px) {
+
+.socialmob{
+		margin-top: 18px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.image .texttitle4 {
+	text-align: center;
+	position:absolute;
+	top:11px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+
+
+.image .texttitlevia {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+  .subtext {
+	font-family: exoregular;
+	font-size: 13px;
+		width:90%;
+
+}
+
+
+.btn_sctions {
+	font-family: gothammedium;
+	color: #FFF;
+	font-size: 10px;
+	background: #FEA200;
+	text-decoration: none;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 190px;
+	height: 38px;
+}
+.centerbtasec{
+	width: 190px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.headcup2 img {
+	width:100%;
+	height: 200px;
+
+}
+
+
+
+
+
+.image .texttitle {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+}
+
+
+
+
+
+
+	.image .texttitle12 {
+	text-align: center;
+	position:absolute;
+	top:17px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+	.assist {
+	height: 255px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	background-color: #8F8F93;
+    }
+
+
+
+
+
+.white-popup {
+	position: relative;
+	max-width: 50px;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	background-color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 400px) and (orientation : portrait) {
+	/* PORTRAIT:
+	Samsung Galaxy Note
+	Nexus 4
+	HTC One S
+	HTC One XL
+	HTC Sensation XL
+	HTC Velocity 4G
+	Motorola Droid3
+	Motorola Droid Razr
+	Motorola Razr HD 4G
+	Motorola Razr M 4G
+	Nokia 500
+	Samsung Galaxy Note 2
+	Samsung Galaxy S3
+	BlackBerry Bold 9900
+	BlackBerry 9520
+	BlackBerry Z10*/
+
+	.socialmob{
+		margin-top: 18px;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+	.image .texttitle4 {
+	text-align: center;
+	position:absolute;
+	top:11px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+
+
+.image .texttitlevia {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+
+  .subtext {
+	font-family: exoregular;
+	font-size: 13px;
+		width:90%;
+
+}
+
+
+.btn_sctions {
+	font-family: gothammedium;
+	color: #FFF;
+	font-size: 10px;
+	background: #FEA200;
+	text-decoration: none;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	width: 190px;
+	height: 38px;
+}
+.centerbtasec{
+	width: 190px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.headcup2 img {
+	width:100%;
+	height: 200px;
+
+}
+
+
+
+
+
+.image .texttitle {
+	text-align: center;
+	position:absolute;
+	top:10px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+}
+
+
+
+
+
+
+	.image .texttitle12 {
+	text-align: center;
+	position:absolute;
+	top:17px; /* in conjunction with left property, decides the text position */
+	width:100%; /* optional, though better have one */
+	margin-right: auto;
+	margin-left: auto;
+	right: auto;
+	bottom: auto;
+	font-family: exoregular;
+	font-size: 18px;
+	color: #FFF;
+}
+
+	.assist {
+	height: 255px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	background-color: #8F8F93;
+    }
+
+
+
+
+
+.white-popup {
+	position: relative;
+	max-width: 50px;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	background-color: #000;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+
+}
+
+
+@media only screen and (min-width : 1224px) {
+.concierge {
+	 display: block;
+
+	}
+
+}
+
+@media screen and (min-width : 1824px) {
+.concierge {
+	 display: block;
+
+	}
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+.concierge {
+	 display: block;
+
+	}}
+
+
+
+
+
+
+
+@media (min-width: 480px) and (max-width: 1000px) {
+  .demo-1 .sl-slide .deco,
+  .demo-2 .sl-slide .deco {
+    width: 120px;
+    height: 120px;
+  }
+  .demo-1 .sl-slide .main-title,
+  .demo-2 .sl-slide .main-title {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  .demo-1 .sl-slide h2,
+  .demo-2 .sl-slide h2 {
+    font-size: 2.5em;
+  }
+  .demo-1 .sl-slide h3,
+  .demo-2 .sl-slide h3 {
+    font-size: 1.5em;
+  }
+  .demo-1 .sl-slide p.lead.x2,
+  .demo-2 .sl-slide p.lead.x2 {
+    font-size: 1em;
+  }
+  .demo-1 .sl-slide blockquote,
+  .demo-2 .sl-slide blockquote {
+    margin-bottom: 0;
+  }
+  .demo-1 .sl-slide blockquote p,
+  .demo-2 .sl-slide blockquote p {
+    width: 90%;
+    font-size: 1.6em;
+    margin-bottom: 15px;
+  }
+  .portfolio > .item {
+    width: 49.99%;
+  }
+  .portfolio > .item.width2x {
+    width: 99.99%;
+  }
+  .portfolio-padding > .item {
+    width: 49.99%;
+  }
+  .portfolio-padding > .item.width2x {
+    width: 49.99%;
+  }
+
+
+  .ctaclocksc{
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+
+}
+@media (min-width: 1000px) {
+  .navbar-collapse.collapse {
+    width: auto;
+    background: none;
+    position: relative;
+    left: auto;
+    top: auto;
+    padding: 0px;
+  }
+  .pricing-table-5 {
+    width: 33.333%;
+  }
+  .pricing-table-4 {
+    width: 49.999%;
+  }
+  .pricing-table-3 {
+    width: 33.333%;
+  }
+  .pricing-table-2 {
+    width: 50%;
+  }
+  .pager li.hidden-xs {
+    display: inline !important;
+  }
+
+  .ctaclocksc{
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#ubicion {
+	text-align: center;
+	width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: exoregular;
+	font-size: 12px;
+	margin-bottom: 18px;
+	color: #333;
+			margin-bottom: 40px;
+
+}
+
+
+
+#centercount {
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 60px;
+}
+
+
+
+#logo {
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+		margin-bottom: 30px;
+
+}
+
+
+
+
+
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .portfolio > .item,
+  .portfolio-padding > .item {
+    width: 33.299%;
+  }
+  .portfolio > .item.width2x,
+  .portfolio-padding > .item.width2x {
+    width: 66.599%;
+  }
+  .device-content {
+    margin-bottom: 0;
+  }
+
+
+
+
+}
+@media (min-width: 992px) {
+  .navbar-nav > li > a {
+    font-size: 0.9em;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .pricing-table-1,
+  .pricing-table-2,
+  .pricing-table-3,
+  .pricing-table-4,
+  .pricing-table-5 {
+    margin: 0;
+  }
+  .pricing-featured {
+    z-index: 5;
+    margin-top: -40px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+  }
+  .pricing-table-5 {
+    width: 20%;
+  }
+  .pricing-table-4 {
+    width: 25%;
+  }
+  .pricing-table-3 {
+    width: 33.3333%;
+  }
+  .pricing-table-2 {
+    width: 50%;
+  }
+  /* Start icon box*/
+  .icon-box.icon-inverted .icon-content {
+    float: right;
+  }
+  .icon-box.icon-inverted .icon-box-content {
+    text-align: right;
+  }
+  .icon-box.icon-inverted.icon-lg .icon-box-content {
+    margin: 0 135px 0 0;
+  }
+  .icon-box.icon-inverted.icon-md .icon-box-content {
+    margin: 0 120px 0 0;
+  }
+  .icon-box.icon-inverted.icon-sm .icon-box-content {
+    margin: 0 100px 0 0;
+  }
+  .icon-box.icon-inverted.icon-xs .icon-box-content {
+    margin: 0 65px 0 0;
+  }
+
+
+
+
+}
+@media (min-width: 1200px) {
+  .portfolio > .item,
+  .portfolio-padding > .item {
+    width: 24.99%;
+  }
+  .portfolio > .item.width2x,
+  .portfolio-padding > .item.width2x {
+    width: 49.99%;
+  }
+  .boxed-layout .portfolio > .item,
+  .container .portfolio > .item,
+  .boxed-layout .portfolio-padding > .item,
+  .container .portfolio-padding > .item {
+    width: 33.299%;
+  }
+  .boxed-layout .portfolio > .item.width2x,
+  .container .portfolio > .item.width2x,
+  .boxed-layout .portfolio-padding > .item.width2x,
+  .container .portfolio-padding > .item.width2x {
+    width: 66.599%;
+  }
+  .page-title-line .filter-content {
+    margin: 0 45px 0 0;
+  }
+
+
+}

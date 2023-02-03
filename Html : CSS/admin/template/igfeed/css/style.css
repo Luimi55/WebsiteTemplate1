@@ -1,0 +1,119 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800");
+@import url(../../../../../maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css);
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: 'gotham_lightregular';
+  font-size: 10pt;
+  color: #333;
+  line-height: normal;
+  font-smoothing: antialiased;
+}
+
+#header {
+  position: relative;
+  width: 100vw;
+  padding: 30px 0 20px;
+}
+#header h1 {
+	text-align: center;
+	color: #000;
+}
+#header h1 .usuario {
+  position: relative;
+  top: -30px;
+}
+
+.logo {
+  display: inline-block;
+  width: 350px;
+}
+
+#content {
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	height: 320px;
+}
+#content .post {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	display: block;
+	overflow: hidden;
+	background-color: #FFF;
+	float: left;
+	margin-right: 15px;
+	border: 10px solid #FFF;
+}
+#content .post .image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-position: center;
+	background-size: cover;
+  transition: all .15s ease-in-out;
+}
+#content .post ul {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  transform: translateY(100%);
+  transition: all .15s ease-in-out;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+}
+#content .post ul li {
+	text-align: center;
+	list-style: none;
+	padding: 20px;
+	border-radius: 0px;
+	font-size: 1.2em;
+	font-family: gararegular;
+	color: #FFF;
+}
+#content .post:hover .image {
+  opacity: .7;
+  transform: scale(1.15) translate3d(0, 0, 0);
+}
+
+
+#content .post:hover {
+	background-color: #666;
+}
+#content .post:hover ul {
+  transform: translateX(0);
+  transform: translateY(-5vw);
+}
+
+
+
+
+@media (max-width: 1000px) {
+
+  #content .post {
+	position: relative;
+	width: 140px;
+	height: 140px;
+	display: block;
+	overflow: hidden;
+	background-color: #FFF;
+	float: left;
+	margin-right: 15px;
+	border: 10px solid #FFF;
+}
+
+
+  
+}

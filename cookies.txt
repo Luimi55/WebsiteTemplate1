@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+elcatador.com	TRUE	/	FALSE	1999999999	CMSSESSID6ef7ca22fc28	6f31d73d7de3b31f703cd437908f796d
+.google.com	TRUE	/	FALSE	1999999999	1P_JAR	2023-01-19-00
+.google.com	TRUE	/	FALSE	1999999999	AEC	ARSKqsIxDAn_lv9nZXIFdmu_S1Th0XJP75QA7roUWpaGqbFPZ99NFtWieA
+maps.google.com	TRUE	/	FALSE	1999999999	SameSite	lax
+.google.com	TRUE	/	FALSE	1999999999	NID	511=bnfBshJlflmAJHkRmKM5mIBjCdX2yftH_WX1xOUtMfWvSeWdC6vXzonb1aIZVAo1OAiTkiDbacTybOJkMz6ajQDWKDHHxEHS9b6b7Nxm0qXiYCd_miM-fLPcg6jdspjiGCieY2-TIE4GEyymhO4vF2IeGEp8YAblkXpv_OIf_jE
+
